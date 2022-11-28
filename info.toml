@@ -1,0 +1,8 @@
+[meta]
+name = "Twitch Checkpoint Titler"
+author = "fu5ha"
+category = "Twitch"
+version = "0.1.0"
+
+[script]
+dependencies = [ "TwitchBase", "CheckpointCounter" ]
